@@ -1,0 +1,19 @@
+# Core Python Libraries
+python-dateutil>=2.8.2
+pytz>=2023.3
+
+# Exchange Trading Library
+ccxt>=3.0.0
+
+# Data Handling
+pandas>=2.0.0
+
+# Optional but Recommended
+requests>=2.31.0
+websocket-client>=1.7.0
+
+# Tkinter (usually comes with Python standard library)
+# Note: On some systems, you might need to install Tkinter separately
+# For Ubuntu/Debian: sudo apt-get install python3-tk
+# For macOS with Homebrew: brew install python-tk
+# For Windows: Tkinter is included with Python installation
