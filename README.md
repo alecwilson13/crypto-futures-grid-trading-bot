@@ -1,4 +1,4 @@
-# Phemex Grid Trading Bot
+# Phemex Futures Grid Trading Bot
 
 ## Overview
 This is a Python-based GUI application for implementing grid trading strategies on Phemex futures contracts. The bot allows users to create automated grid trading strategies with features like configurable grid levels, leverage, and market direction.
